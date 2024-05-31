@@ -1,11 +1,8 @@
 {
-    "_id": "objectId",
-    "name": "string",
-    "address": "string",
-    "telephone": "string",
-    "email": "string",
-    "register_date": "Date",
-    "last_shoppings": [
-      "objectId"
-    ]
-  }
+  "_id": "ObjectId",
+  "adress": "String",
+  "telephone": "Number",
+  "email": "String",
+  "register_date": "Date",
+  "last_shoppings_id": ["ObjectId"]
+}

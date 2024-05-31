@@ -1,11 +1,9 @@
 {
-    "_id": "ObjectId",
-    "name": "string",
-    "description": "string",
-    "image": "string",
-    "price": "double",
-    "category": {
-      "_id": "ObjectId",
-      "name": "string"
-    }
-  }
+  "_id": "ObjectId",
+  "type": "String",
+  "name": "String",
+  "description": "String",
+  "image": "String",
+  "price": "Number",
+  "category": "String"
+}

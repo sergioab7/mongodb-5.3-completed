@@ -1,16 +1,5 @@
 {
-    "_id": "objectId",
-    "name": "string",
-    "address": {
-      "street": "String",
-      "number": "String",
-      "floor": "String",
-      "door": "String",
-      "city": "String",
-      "postal_code": "int",
-      "country": "String"
-    },
-    "telephone": "string",
-    "fax": "string",
-    "nif": "string"
-  }
+  "_id": "ObjectId",
+  "customer_id": "ObjectId",
+  "google_id": "ObjectId"
+}

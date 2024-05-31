@@ -1,5 +1,5 @@
 {
-    "_id": "objectId",
-    "user_id": "ObjectId",
-    "channel_id": "ObjectId"
-  }
+  "_id": "ObjectId",
+  "user_id": "String",
+  "channel_id": "String"
+}

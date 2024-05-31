@@ -1,7 +1,6 @@
 {
-    "_id": "ObjectId",
-    "name": "string",
-    "description": "string",
-    "creation_date": "date",
-    "user_owner": "ObjectId"
-  }
+  "_id": "ObjectId",
+  "name": "String",
+  "description": "String",
+  "creation_date": "Date"
+}
